@@ -2,7 +2,7 @@
 ![header](https://capsule-render.vercel.app/api?type=Slice&text=developer)
 
 ### Intro
-- 👀 안녕하세요! 😄
+- 👀 안녕하세요! 서예린 입니다. 😄
 - 🌱 백엔드 개발자로 성장하고 있습니다.
 
   
@@ -28,19 +28,14 @@
   </thead>
   <tbody>
     <tr>
-      <td><a href="https://github.com/thmsgbrt/react-simple-pull-to-refresh"><b>donationProject</b></a></td>
+      <td><a href="[https://github.com/thmsgbrt/react-simple-pull-to-refresh](https://github.com/LikeLion-3/donationProject)"><b>donationProject</b></a></td>
       <td><img alt="Issues" src="https://img.shields.io/github/issues/yesrin/LikeLion-3/donationProject?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/yesrin/donationProject?style=flat-square&labelColor=343b41"/></td>
     </tr>
 	  <tr>
-      <td><a href="https://github.com/thmsgbrt/Chrome-Extension-with-React-and-Typescript-Starter-Pack"><b>Typescript & React Chrome Extension Starter</b></a></td>
+      <td><a href="[https://github.com/thmsgbrt/Chrome-Extension-with-React-and-Typescript-Starter-Pack](https://github.com/Tour-Ranger/Tour-Ranger-Back)"><b>Tour-Ranger-Back</b></a></td>
       <td><img alt="Issues" src="https://img.shields.io/github/issues/thmsgbrt/Chrome-Extension-with-React-and-Typescript-Starter-Pack?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/thmsgbrt/Chrome-Extension-with-React-and-Typescript-Starter-Pack?style=flat-square&labelColor=343b41"/></td>
-    </tr>
-    <tr>
-      <td><a href="https://github.com/thmsgbrt/nodejs-typescript-express-apollo-graphql-starter"><b>NodeJs Express TypeScript GraphQL Starter</b></a></td>
-      <td><img alt="Issues" src="https://img.shields.io/github/issues/thmsgbrt/nodejs-typescript-express-apollo-graphql-starter?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/thmsgbrt/nodejs-typescript-express-apollo-graphql-starter?style=flat-square&labelColor=343b41"/></td>
     </tr>
   </tbody>
 </table>
