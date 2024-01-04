@@ -14,10 +14,9 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fyerin%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 <br/>
+<hr>
 
 ### <h1>📚 STACKS</h1>
-
-<br/>
 
 <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white">
 <img src="https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white">
@@ -49,7 +48,6 @@
 
 <br/>
 
-
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white) 
 ![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white) 
 ![nGrinder](https://img.shields.io/badge/nGrinder-%23ED8B00.svg?style=for-the-badge&logo=naver&logoColor=white) 
@@ -74,9 +72,11 @@
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
 
 <br/>
+<hr>
 
-### <h1> STATS </h1>
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yesrin&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yesrin&layout=compact&theme=vue) 
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yesrin&show_icons=true&theme=vue)
 
 </div>
 
