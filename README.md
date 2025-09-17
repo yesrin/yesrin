@@ -3,18 +3,13 @@
 ![header](https://capsule-render.vercel.app/api?type=Slice&text=Developer_yesrin)
 
 ### <h1> 👀 INTRO</h1>
-안녕하세요! 서예린 입니다. 😄
+안녕하세요! 서예린 입니다 :)
 <br/>
-🌱 백엔드 개발자로 성장하고 있습니다.
+백엔드 개발자로 성장하고 있습니다.
 
   
 
 <a href="https://velog.io/@yesrin" target="_blank"><img src="https://img.shields.io/badge/Velog-20c997?style=flat-square&logo=Vimeo&logoColor=white"/></a>
-
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yesrin&show_icons=true&theme=vue)
-<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yesrin&layout=compact&theme=vue) -->
-<hr>
 
 ### <h1>📚 STACKS</h1>
 
