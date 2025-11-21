@@ -9,12 +9,11 @@
 
 <a href="https://velog.io/@yesrin" target="_blank"><img src="https://img.shields.io/badge/Velog-20c997?style=flat-square&logo=Vimeo&logoColor=white"/></a>
 
-
-<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=pooky1219&utm_content=farm">
+<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=yesrin&utm_content=farm">
 <img
   src="https://render.gitanimals.org/farms/yesrin"
   width="600"
-  height="290"
+  height="300"
 />
 </a>
 
