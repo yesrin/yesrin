@@ -7,21 +7,21 @@
 <br/>
 백엔드 개발자로 성장하고 있습니다.
 
-  
-
 <a href="https://velog.io/@yesrin" target="_blank"><img src="https://img.shields.io/badge/Velog-20c997?style=flat-square&logo=Vimeo&logoColor=white"/></a>
+
+
+<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=pooky1219&utm_content=farm">
+<img
+  src="https://render.gitanimals.org/farms/yesrin"
+  width="600"
+  height="290"
+/>
+</a>
 
 ### <h1>📚 STACKS</h1>
 
 <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white">
 <img src="https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white">
-<br/>
-
-
-<img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-<img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black">
-<img src="https://img.shields.io/badge/vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white">
-<img src="https://img.shields.io/badge/socket.io-010101?style=for-the-badge&logo=socket.io&logoColor=white">
 <br/>
 
 <br/>
