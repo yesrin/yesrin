@@ -7,8 +7,6 @@
 <br/>
 백엔드 개발자로 성장하고 있습니다.
 
-<a href="https://velog.io/@yesrin" target="_blank"><img src="https://img.shields.io/badge/Velog-20c997?style=flat-square&logo=Vimeo&logoColor=white"/></a>
-
 <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=yesrin&utm_content=farm">
 <img
   src="https://render.gitanimals.org/farms/yesrin"
